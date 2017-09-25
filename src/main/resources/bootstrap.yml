@@ -4,3 +4,7 @@ spring:
 security:
   basic:
     enabled: false
+management:
+  security:
+    enabled: false
+
